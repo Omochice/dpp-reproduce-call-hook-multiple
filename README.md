@@ -1,4 +1,4 @@
-# dpp.vim reproduce repository for []()
+# dpp.vim reproduce repository for [dpp#41](https://github.com/Shougo/dpp.vim/issues/41)
 
 `dpp#util#_call_hook('source',sourced=[])` causes an unintended load at an unintended timing.
 
@@ -13,4 +13,4 @@ Each plugins are loaded once.
 
 ### Actual behavior
 
-Each plugins are loaded once.
+Each plugins are loaded twice.
