@@ -1,0 +1,9 @@
+[submodule "bootstrap/dpp.vim"]
+	path = bootstrap/dpp.vim
+	url = https://github.com/Shougo/dpp.vim
+[submodule "bootstrap/dpp-ext-lazy"]
+	path = bootstrap/dpp-ext-lazy
+	url = https://github.com/Shougo/dpp-ext-lazy
+[submodule "bootstrap/denops.vim"]
+	path = bootstrap/denops.vim
+	url = https://github.com/vim-denops/denops.vim
